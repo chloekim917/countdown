@@ -2,7 +2,7 @@
 body {
     /* background-color: black; */
     color: black;
-    font-family: 'Parisienne', cursive;
-    font-size: 100pt;
+    font-family: 'Major Mono Display', monospace;
+    font-size: 30pt;
     margin-left: 60px;
 }
