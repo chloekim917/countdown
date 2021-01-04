@@ -1,7 +1,5 @@
 let newYear = new Date("Jan 1, 2021 00:00:00").getTime();
 
-// let newYear = new Date("Dec 28, 2020 17:26:00").getTime();
-
 const countdown = document.getElementById('countdown');
 
 let updateCountdownClock = setInterval(function(){
